@@ -1,3 +1,4 @@
+//USANDO GIT -- PROYECTO NO FINALIZADO
 //EL PROGRAMA NECESITA ARCHIVOS PARA QUE FUNCIONE
 #include <iostream>
 #include <cstring>
